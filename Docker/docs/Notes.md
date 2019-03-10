@@ -1,14 +1,14 @@
-#What is docker
+# What is docker
 Docker is a suite of tools used to build / deploy / run applications through containers.
 Containers allow a developer to package up an application with all of the part it needs such as libraries and other dependencies, and ship it out as one package
 
-##What is a docker container
+## What is a docker container
 A docker *container* is an instance of a Docker *image* and runs in its own independent environment from other containers
 
-##What is a docker image
+## What is a docker image
 A docker image is a file, containing snapshot of the application and its dependencies.
 
-##Docker commands
+## Docker commands
 
 |Command                     | Description|
 |--------------------------------- | -------|
